@@ -10,4 +10,4 @@ github.com
 ## Usage:
 *Run the fwdrop.tcl script to drop and block a source IP addresses dynamically.*
 
-  `./fwblocklist.tcl <IP Address>`
+  `./fwdrop.tcl <IP Address>`
